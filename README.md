@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Christof Schroth, a mathematician who is interested in the filed of data mining and data science. I'm providing notebooks with practical use for Python beginners.
-- Most of my files will be provided in German or even Swabian dialect.
+- 👋 Hi, I’m Christof Schroth, a mathematician who is interested in the field of data mining and data science. I'm providing notebooks with practical use for Python beginners.
+- Most of my files will be provided in German or Swabian (a dialect in the South-West part of Germany).
 
 
 <!---
